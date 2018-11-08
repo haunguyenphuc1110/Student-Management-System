@@ -1,0 +1,22 @@
+INSERT INTO public.student_course(
+	id_student, id_course)
+	VALUES ('ST1', 'KH27'),
+	       ('ST2', 'KH28'),
+		   ('ST3', 'KH29'),
+		   ('ST4', 'KH30'),
+		   ('ST5', 'KH9'),
+		   ('ST6', 'KH11'),
+		   ('ST7', 'KH14'),
+		   ('ST8', 'KH1'),
+		   ('ST9', 'KH4'),
+		   ('ST10', 'KH3'),
+		   ('ST11', 'KH5'),
+		   ('ST12', 'KH7'),
+		   ('ST13', 'KH17'),
+		   ('ST14', 'KH20'),
+		   ('ST15', 'KH22'),
+		   ('ST16', 'KH2'),
+		   ('ST17', 'KH6'),
+		   ('ST18', 'KH4'),
+		   ('ST19', 'KH10'),
+		   ('ST20', 'KH12');
